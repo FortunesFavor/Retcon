@@ -4,6 +4,8 @@ Name
 Alias
   Nightblade
 
+.. image:: http://i.imgur.com/Y38De4O.jpg
+
 Age
   23
 
@@ -86,3 +88,5 @@ Gear
   - Glock 18 [WR 10]
   - Katana [WR 7]
   - Motorcycle [5 TP]
+
+.. image:: http://www.nicknormal.com/normalblog/wp-content/uploads/2008/11/stl-derelict-2.jpg
