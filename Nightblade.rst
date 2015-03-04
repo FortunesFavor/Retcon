@@ -90,3 +90,4 @@ Gear
   - Motorcycle [5 TP]
 
 .. image:: http://www.nicknormal.com/normalblog/wp-content/uploads/2008/11/stl-derelict-2.jpg
+.. image:: http://www.wired.com/images_blogs/autopia/2014/03/MNM4_20143BA-660x495.jpg
