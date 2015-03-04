@@ -46,23 +46,31 @@ WEAKNESS
 :Edge: [1]
 
 
-
-:Body:
-    5
-    :Melee Weapons: 10
-
-:Reflexes:
-    5
-    :Firearms: 5
-    :Dodge: 5
-	
-:Wits:
-    5
-    :Perception: 5
-
-:Persona:
-    5
-    :Intimidation: 5
+Abilities and Skills
+  :Body:
+  
+      5
+      
+      :Melee Weapons: 10
+  
+  :Reflexes:
+  
+      5
+      
+      :Firearms: 5
+      :Dodge: 5
+  	
+  :Wits:
+  
+      5
+      
+      :Perception: 5
+  
+  :Persona:
+  
+      5
+      
+      :Intimidation: 5
 
 Traits
   - Accelerated Healing [10 AP] [20 TP]
