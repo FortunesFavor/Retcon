@@ -47,31 +47,28 @@ WEAKNESS
 
 
 
-:Body: 5
+:Body:
+    5
     :Melee Weapons: 10
 
-:Reflexes: 5
+:Reflexes:
+    5
     :Firearms: 5
     :Dodge: 5
 	
 :Wits:
     5
-   	:Perception: 5
+    :Perception: 5
 
 :Persona:
     5
-   	:Intimidation: 5
+    :Intimidation: 5
 
 Traits
-
-     Accelerated Healing [10 AP] [20 TP]
+  - Accelerated Healing [10 AP] [20 TP]
 
 Gear
-
-	 Derelict Garage [8 TP]
-
-	 Glock 18 [WR 10]
-	 
-	 Katana [WR 7]
-
-     Motorcycle [5 TP]
+  - Derelict Garage [8 TP]
+  - Glock 18 [WR 10]
+  - Katana [WR 7]
+  - Motorcycle [5 TP]
