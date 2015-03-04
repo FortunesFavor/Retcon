@@ -45,25 +45,25 @@ WEAKNESS
 :Action Points: [20]
 :Edge: [1]
 
+
+
 :Body:
 
     5
-		:Melee Weapons:
-		
-		    10
+    :Melee Weapons: 10
 
-Reflexes	5
+:Reflexes:
+    5
+		:Firearms: 5
+    :Dodge: 5
 	
-	Firearms		5
-	Dodge		5
-	
-Wits	5
-   
-	Perception		5
+:Wits:
+    5
+   	:Perception: 5
 
-Persona	5
-   
-	Intimidation		5
+:Persona:
+    5
+   	:Intimidation: 5
 
 Traits
 
