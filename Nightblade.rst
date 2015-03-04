@@ -47,14 +47,11 @@ WEAKNESS
 
 
 
-:Body:
-
-    5
+:Body: 5
     :Melee Weapons: 10
 
-:Reflexes:
-    5
-		:Firearms: 5
+:Reflexes: 5
+    :Firearms: 5
     :Dodge: 5
 	
 :Wits:
