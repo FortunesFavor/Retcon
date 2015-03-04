@@ -1,50 +1,38 @@
 Name: Alice Bryce
-
 Alias: Nightblade
-
 Age:  23
 
 Description:  Dressed in a simple Motorcycle helmet and jacket, armed with a modern carbon steel katana and a pistol
 
-**ALTER EGO**
-
- Rapid Healing Street Samurai
+ALTER EGO
+  Rapid Healing Street Samurai
  
-**SECRET IDENTITY**
-
- Apathetic Mall Cashier 
+SECRET IDENTITY
+  Apathetic Mall Cashier
  
-**ORIGIN STORY**
-
- Drive-by victim revived by Mysterious Stranger
+ORIGIN STORY
+  Drive-by victim revived by Mysterious Stranger
  
-**HOME TURF**
+HOME TURF
+  Home grown in Harlem
  
- Home grown in Harlem
+MORAL CODE
+  Crime and Punishment
  
-**MORAL CODE**
-
- Crime and Punishment
+DILEMMA
+  Stalked by Media
  
-**DILEMMA**
+NEMESIS
+  Yoshimitsu Kai 義満会
  
- Stalked by Media
+HELP
+  Sensei Yoshimitsu Kaiba 
  
-**NEMESIS**
-
- Yoshimitsu Kai 義満会
- 
-**HELP**
- 
- Sensei Yoshimitsu Kaiba 
- 
-**APTITUDE**
-
+APTITUDE
  Kenjutsu
  
-**WEAKNESS**
- 
- Crippling pain from Electrical Shock
+WEAKNESS
+  Crippling pain from Electrical Shock
 
 :Level: [1]
 :Health:
@@ -56,9 +44,13 @@ Description:  Dressed in a simple Motorcycle helmet and jacket, armed with a mod
 :Threshold: [5]
 :Action Points: [20]
 :Edge: [1]
-Body	5
-	
-	Melee Weapons		10
+
+:Body:
+
+    5
+		:Melee Weapons:
+		
+		    10
 
 Reflexes	5
 	
