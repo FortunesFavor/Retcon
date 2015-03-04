@@ -1,8 +1,14 @@
-Name: Alice Bryce
-Alias: Nightblade
-Age:  23
+Name
+  Alice Bryce
 
-Description:  Dressed in a simple Motorcycle helmet and jacket, armed with a modern carbon steel katana and a pistol
+Alias
+  Nightblade
+
+Age
+  23
+
+Description
+  Dressed in a simple Motorcycle helmet and jacket, armed with a modern carbon steel katana and a pistol
 
 ALTER EGO
   Rapid Healing Street Samurai
