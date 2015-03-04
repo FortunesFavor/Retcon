@@ -92,3 +92,4 @@ Gear
 .. image:: http://www.nicknormal.com/normalblog/wp-content/uploads/2008/11/stl-derelict-2.jpg
 .. image:: http://www.wired.com/images_blogs/autopia/2014/03/MNM4_20143BA-660x495.jpg
 .. image:: http://www.trueswords.com/images/prod/battle_ready_cyborg_ninja_sword.jpg
+.. image:: http://eastarms.ru/published/publicdata/HOST1223248MAIN/attachments/SC/products_pictures/WE_Glock_18C_Gen_4fb7d507136f8_enl.png
